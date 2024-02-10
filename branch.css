@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: #F4C524;
+}
+.branches-container {
+    margin: 15% auto;
+    width: 80%;
+    height: auto;
+    text-align: center;
+    
+}
+.branch-info {
+    margin: 40px auto;
+    background-color: #31281F;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 140%;
+}
+
+.branch-info-1 {
+    margin: 40px auto;
+    background-color: #31281F;
+    width: 350px;
+    height: 500px;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-size: 140%;
+    margin-left: 25%;
+}
+.place {
+    border-radius: 20px;
+    padding: 20px;
+    
+}
